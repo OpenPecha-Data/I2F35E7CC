@@ -2,17 +2,16 @@ id: I2F35E7CC
 initial_creation_type: ebook
 source_metadata:
   id: KS-GT-07
-  title: ༄༅། །རྟེན་འབྲེལ་གྱི་གནད་བསྡུས་ཆིག་ཆོག་མའི་ཞལ་གདམས་དང་རྟེན་འབྲེལ་གྱི་ཁྲིད་ཀྱི་ཞལ་གདམས་བཞུགས་སོ།
-    །
+  title: རྟེན་འབྲེལ་གྱི་གནད་བསྡུས་ཆིག་ཆོག་མའི་ཞལ་གདམས་བཞུགས་སོ།
   author: མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
   authors: &id001
   - མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
   sku: KS-GT-07
   cover: KS_Gotshangpa_Series7.jpg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: ༄༅། །རྟེན་འབྲེལ་གྱི་གནད་བསྡུས་ཆིག་ཆོག་མའི་ཞལ་གདམས་དང་རྟེན་འབྲེལ་གྱི་ཁྲིད་ཀྱི་ཞལ་གདམས་བཞུགས་སོ།
-    །
+  title: རྟེན་འབྲེལ་གྱི་གནད་བསྡུས་ཆིག་ཆོག་མའི་ཞལ་གདམས་བཞུགས་སོ།
   authors: *id001
   sku: KS-GT-07
   cover: KS_Gotshangpa_Series7.jpg
